@@ -1,0 +1,76 @@
+Info: ilivalidator-1.11.3-0de2d606b648b74ab53fce8201a0fdf70b208a47
+Info: ili2c-5.0.2-20190906
+Info: iox-ili-1.20.15-be7ec2c081c774c90ad8d244857d357cbfc23308
+Info: User <default>
+Info: Start date 2021-03-11 18:22
+Info: maxMemory 2728960 KB
+Info: dataFile </home/gradle/project/ch.so.awa.stromversorgungssicherheit_netzgebiete.mgdm.xtf>
+Info: ilidirs <%ITF_DIR;http://models.interlis.ch/;%JAR_DIR/ilimodels>
+Info: lookup model <AdministrativeUnits_V1> in repository </home/gradle/project/>
+Info: lookup model <AdministrativeUnits_V1> in repository <http://models.interlis.ch/>
+Warning: TID=1001: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=1002: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=1003: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=1004: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=1005: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=1006: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=1007: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=1008: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Info: lookup model <AdministrativeUnits_V1> in repository <http://models.geo.admin.ch/>
+Warning: TID=100501: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100502: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100503: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100504: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100505: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100506: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100507: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100508: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100509: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100510: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100511: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100512: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100513: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100514: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100515: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100516: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100517: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100518: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100519: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100520: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100521: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Warning: TID=100522: ignored; unknown class <IliRepository20.RepositoryIndex.ModelMetadata>
+Info: lookup model <SupplySecurity_RuledAreas_V1_2> 2.3 in repository </home/gradle/project/>
+Info: lookup model <SupplySecurity_RuledAreas_V1_2> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <SupplySecurity_RuledAreas_V1_2> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <Units> 2.3 in repository </home/gradle/project/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <CoordSys> 2.3 in repository </home/gradle/project/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <InternationalCodes_V1> 2.3 in repository </home/gradle/project/>
+Info: lookup model <InternationalCodes_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <InternationalCodes_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <GeometryCHLV03_V1> 2.3 in repository </home/gradle/project/>
+Info: lookup model <GeometryCHLV03_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <GeometryCHLV03_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: ilifile </home/jenkins/.ilicache/models.interlis.ch/refhb23/Units-20120220.ili>
+Info: ilifile </home/jenkins/.ilicache/models.interlis.ch/refhb23/CoordSys-20151124.ili>
+Info: ilifile </home/jenkins/.ilicache/models.geo.admin.ch/CH/CHBase_Part2_LOCALISATION_V1.ili>
+Info: ilifile </home/jenkins/.ilicache/models.geo.admin.ch/CH/CHBase_Part1_GEOMETRY_V1.ili>
+Info: ilifile </home/jenkins/.ilicache/models.geo.admin.ch/CH/CHBase_Part4_ADMINISTRATIVEUNITS_V1.ili>
+Info: ilifile </home/jenkins/.ilicache/models.geo.admin.ch/ElCom/SupplySecurity_RuledAreas_V1_2.ili>
+Info: validate data...
+Info: assume unknown external objects
+Info: first validation pass...
+Info: second validation pass...
+Info: validate multiplicity of role SupplySecurity_RuledAreas_V1_2.SupplySecurity_RuledAreas.RuledAreaOrganisationOwnerAssoc.RuledArea2...
+Info: validate multiplicity of role SupplySecurity_RuledAreas_V1_2.SupplySecurity_RuledAreas.RuledAreaOrganisationOperatorAssoc.RuledArea1...
+Info: validate target of role SupplySecurity_RuledAreas_V1_2.SupplySecurity_RuledAreas.RuledAreaOrganisationOperatorAssoc.Operator...
+Info: validate target of role SupplySecurity_RuledAreas_V1_2.SupplySecurity_RuledAreas.RuledAreaOrganisationOwnerAssoc.Owner...
+Info: validate multiplicity of role SupplySecurity_RuledAreas_V1_2.SupplySecurity_RuledAreas.RuledAreaOrganisationOperatorAssoc.Operator...
+Info: validate multiplicity of role SupplySecurity_RuledAreas_V1_2.SupplySecurity_RuledAreas.RuledAreaOrganisationOwnerAssoc.Owner...
+Info: /home/gradle/project/ch.so.awa.stromversorgungssicherheit_netzgebiete.mgdm.xtf: SupplySecurity_RuledAreas_V1_2.SupplySecurity_RuledAreas BID=SupplySecurity_RuledAreas_V1_2.SupplySecurity_RuledAreas
+Info: ?    38 objects in CLASS SupplySecurity_RuledAreas_V1_2.SupplySecurity_RuledAreas.Organisation
+Info: ?   121 objects in CLASS SupplySecurity_RuledAreas_V1_2.SupplySecurity_RuledAreas.RuledArea_Level3
+Info: ?   139 objects in CLASS SupplySecurity_RuledAreas_V1_2.SupplySecurity_RuledAreas.RuledArea_Level5
+Info: ?   177 objects in CLASS SupplySecurity_RuledAreas_V1_2.SupplySecurity_RuledAreas.RuledArea_Level7
+Info: ...validation done

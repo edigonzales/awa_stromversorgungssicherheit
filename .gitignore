@@ -1,3 +1,4 @@
+.gradle
 .vagrant/
 .DS_Store
 gretl/.gradle/
